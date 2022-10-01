@@ -1,0 +1,120 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.nav{
+    background-color:  #F0FFF0;
+}
+
+.navbar-nav{
+    margin:0 auto;
+}
+h1{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 70px;
+}
+.color{
+    color:#21b573;
+}
+.caro{
+    margin-bottom: 48px;
+    background-color:  #F0FFF0;
+}
+
+.one, .two, .three, .four{
+    height: 270px ;
+    width: 270px ;
+    background-color: #F8FFFB;
+    left: 1035px;
+    top: 618px;
+    text-align: center;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;   
+    padding: 50px 50px; 
+    color: #413960;
+
+}
+.get{
+    padding: 12px 36px;
+    background-color: #21B573;
+    color:white;
+    border:none;
+    border-radius:33px;
+    cursor:pointer;
+ 
+}
+.cate img{
+    height: 83px;
+    width: 80px;
+  
+}
+h5{
+    padding-top: 24px;
+}
+.cate{
+    margin-bottom: 100px;
+}
+.button{
+    background-color: #21B573;
+    color: #F0FFF0;
+    border: none;
+    border-radius: 33px;
+    padding: 8px 28px;
+}
+.coursetext{
+    text-align: center;
+    margin-bottom: 86px;
+
+}
+.course{
+    margin-bottom: 130px;
+}
+.card{
+    padding: 24px 20px;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border: none;
+}
+.join img{
+    height: 20px;
+    width: 18px;
+}
+.join{
+    margin-top:34px ;
+}
+.center{
+    text-align: center;
+    margin-bottom: 66px;
+    font-weight: 700;
+}
+.testmonial img{
+    width: 120px; ;
+    height: 120px;
+    position: absolute;
+    left: 353px;
+}
+
+.test{
+    margin-top: 162px;
+    margin-bottom: 106px;
+}
+.suggest{
+    margin-bottom: 130px;
+}
+.footer a{
+    text-decoration: none;
+    color:white;
+
+}
+.footer{
+    color:white;
+    background-color: #282531;
+}
+.copyright{
+    text-align: center;
+    padding-bottom: 27px;
+}
+.listman{
+    padding-bottom: 70px;
+    padding-top: 55px;
+    
+}
